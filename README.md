@@ -1,32 +1,20 @@
-# JBL Clip 4 – Honda Pilot (2007) Door Pocket Mount
-A custom 3D-printed mount designed to securely hold a **JBL Clip 4** Bluetooth speaker inside the **front door pockets** of a 2007 Honda Pilot (left-hand drive).  
-This mount was engineered to fit the Pilot’s pocket geometry and tilt the speaker toward the cabin for optimal audio performance.
+# JBL Clip 4 – Honda Pilot (2007) Lower Door Pocket Mount
+A custom 3D-printed mount designed to securely hold a **JBL Clip 4** Bluetooth speaker inside the **lower door map pocket** of a 2007 Honda Pilot (left-hand drive).  
+This design was created to allow clean, low-profile audio placement without modifying the vehicle.
 
 ---
 
-## 📸 Installed Examples
+## 📸 Installed Example
 
-**Driver & Passenger Door (Paired View):**
+![JBL Clip 4 Door Mount](JBLClip4DoorMount.jpg)
 
-![JBL Clip 4 Door Mount](JBLClip4DoorMount.png
-> *This image shows both the driver-side and passenger-side mounts installed with the JBL Clip 4 attached.*
+*A rendering showing the JBL Clip 4 seated in the custom lower-pocket mount.*
 
 ---
 
 ## 🧩 Features
-- Custom-fit lip clamp for the Honda Pilot door pocket  
-- Full cradled support for the JBL Clip 4  
-- 20° upward audio tilt for improved cabin projection  
-- Left and right door versions (mirrored geometry)  
-- PETG/ASA-friendly model for hot car interiors  
-- Optional TPU pads for vibration damping  
-- Secure bottom shelf to prevent sliding during door movement  
-
----
-
-## 🏗 Models Included
-| File | Description |
-|------|-------------|
-| `JBL_Clip4_Pilot_LeftDoor.stl` | Driver-side (left) door mount |
-| `JBL_Clip4_Pilot_RightDoor.stl` | Passenger-side (right) door mount |
-| `JBL_Clip4_Pilot_LeftDoor.step` | Ed_
+- Designed specifically for the **deep lower door pocket** on 2003–2008 Honda Pilot  
+- Cradle fully supports the JBL Clip 4 while angled for upward sound projection  
+- Clamp-on mount requires **no screws, adhesives, or vehicle modification**  
+- Left + right mirrored versions available  
+- PETG/ASA recommended (handl

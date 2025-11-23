@@ -8,8 +8,7 @@ This mount was engineered to fit the Pilot’s pocket geometry and tilt the spea
 
 **Driver & Passenger Door (Paired View):**
 
-![JBL Clip 4 Door Mount](/mnt/data/A_pair_of_digital_photographs_side_by_side_capture.png)
-
+![JBL Clip 4 Door Mount](JBL4ClipDoorMount.png
 > *This image shows both the driver-side and passenger-side mounts installed with the JBL Clip 4 attached.*
 
 ---

@@ -6,7 +6,7 @@ This design was created to allow clean, low-profile audio placement without modi
 
 ## 📸 Installed Example
 
-![JBL Clip 4 Door Mount]JBLClip4DoorMount.png)
+![JBL Clip 4 Door Mount] JBLClip4DoorMount.png)
 
 *A rendering showing the JBL Clip 4 seated in the custom lower-pocket mount.*
 
